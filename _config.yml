@@ -1,16 +1,16 @@
 # Base configs
-baseurl: "https://foto.lhzhang.com"
+baseurl: "http://photography.pangda.xyz"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
-title: "rusty shutter"
+title: "unbelief"
 subtitle: ""
-author: "Linghua Zhang"
+author: "unbelief"
 header:
- title: "rusty shutter"
- subtitle: "by Linghua Zhang"
+ title: "PHOTOGRAPHY"
+ subtitle: "by unbelief"
 footer:
  name: ""
  bio: ""
@@ -22,4 +22,4 @@ social_urls:
   instagram: ""
   dribbble: ""
   linkedin: ""
-  github: ""
+  github: "https://github.com/unbelief"
